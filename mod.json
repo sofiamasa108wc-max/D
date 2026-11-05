@@ -1,0 +1,12 @@
+
+{
+  "geode": "v5.11.2",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "clickfix.android",
+  "name": "ClickFix",
+  "version": "v0.1.0",
+  "developer": "ClickFix",
+  "description": "ClickFix Android alpha prototype"
+}
